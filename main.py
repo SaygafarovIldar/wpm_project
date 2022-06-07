@@ -1,7 +1,7 @@
 import curses
+import random
 import time
 from curses import wrapper
-import random
 
 
 def load_text():
